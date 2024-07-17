@@ -1,0 +1,3 @@
+a=("Pratham")
+b=("Sumesara")
+print(a+b)
